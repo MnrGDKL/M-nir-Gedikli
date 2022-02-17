@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Front-End Development | Javascript | ReactJS | React Native
+- 🔭 I’m currently working on Full Stack Development || HTML/CSS | Javascript | ReactJS | Python | SQL ||
 
 ### 📩 Connect with me:
 
