@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Full Stack Development || HTML/CSS | Javascript | ReactJS | Python | SQL ||
 
-### 📩 Connect with me:
+### 📩 Contact with me:
 
 <div style="text-align: center"> 
   <a href = "mailto:munirgedikli@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
