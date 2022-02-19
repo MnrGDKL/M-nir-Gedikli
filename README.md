@@ -1,6 +1,6 @@
 # ## Hi , I'm Münir Gedikli👋
 
-<h3>A passionate Full Stack Developer from Turkey</h3>
+<h2>A passionate Full Stack Developer from Turkey</h2>
 
 - 🔭 I’m currently working on Full Stack Development || HTML/CSS | Javascript | ReactJS | Python | SQL ||
 
