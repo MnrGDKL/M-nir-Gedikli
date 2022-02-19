@@ -12,8 +12,8 @@
 </div>
 <br>
 <div align="left">
-    <img height="220em" width="800em" src="https://github-readme-stats.vercel.app/api?username=MnrGDKL&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-    <img height="220em" width="800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnrGDKL&layout=compact&langs_count=7&theme=monokai"/>
+    <img height="220em" width="800em" src="https://github-readme-stats.vercel.app/api?username=MnrGDKL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="220em" width="800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnrGDKL&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
