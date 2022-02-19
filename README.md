@@ -1,4 +1,4 @@
-# ## Hi , I'm Münir Gedikli👋
+#  Hi , I'm Münir Gedikli👋
 
 <h2>A passionate Full Stack Developer from Turkey</h2>
 
