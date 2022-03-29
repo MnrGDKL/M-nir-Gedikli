@@ -2,8 +2,8 @@
 
 <h2>A passionate Full Stack Developer from Turkey</h2>
 
-- 🔭 I’m currently working on Full Stack Development || HTML/CSS | Javascript | ReactJS | Python | SQL ||
-
+- 🔭 I’m currently working on Full Stack Development as a Software Developer & Computer Engineer || React | JavaScript | HTML5/CSS3| SCSS/SASS | Bootstrap5 | Python | Linux | Django | SQL | APIs | Agile | Jira | SDLC | OOP | Microsoft Excel | eCommerce SEO
+- 
 ### 📩 Contact with me:
 
 <div style="text-align: center"> 
