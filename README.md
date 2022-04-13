@@ -1,6 +1,6 @@
 #  Hi , I'm Münir Gedikli👋
 
-<h2>A passionate Full Stack Developer from Turkey</h2>
+<h2>A passionate Full Stack Developer</h2>
 
 - 🔭 I’m currently working on Full Stack Development as a Software Developer & Computer Engineer 
 - I have strong experience of React JS | JavaScript | HTML5/CSS3| SCSS/SASS | Bootstrap5 | Python | Linux | Django | SQL | APIs | Agile | Jira | SDLC | OOP
